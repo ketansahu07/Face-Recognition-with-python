@@ -1,0 +1,1 @@
+This directory should contain images that needs to be processed and identified.
