@@ -1,4 +1,4 @@
-# Facial Recognition with Python
+# Face Recognition with Python
 
 This is a simple program in python that uses face_recognition module to recognize faces in images.
 Opencv module is used for making rectangles and text area around the face.
